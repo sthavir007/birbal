@@ -1,4 +1,4 @@
-:HL["/birbal/_next/static/chunks/0k4wl5spe8wsc.css","style"]
+:HL["/birbal/_next/static/chunks/0aq1mk96v2zsq.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"rIqqQygBN5_JdgGevY7cd","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"DdiFnbuUUZrBiwz_czAlT","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
